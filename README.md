@@ -1,6 +1,7 @@
 **Vorbereitende Aufgabe:**
 - Clonen Sie die aktuellegit-Aufgabe
-- Lesen Sie das Kapitel: Git-Branching und beantworten Sie folgende Fragen.
+- Lesen Sie das Kapitel: Git-Branching und beantworten Sie folgende Fragen.  
+
 **Git Branching:**
 
 1. Was ist ein Git-Branch?
