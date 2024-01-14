@@ -30,9 +30,12 @@
 2. Welchen Befehl würdest du verwenden, um lokale Änderungen zu stashen, bevor du zu einem anderen Branch wechselst?
 
 **Praktische Umsetzung:**
-- Versuchen Sie, den develop Branch in main zu mergen, was zu einem Konflikt Führen sollte.
+- Erstellen Sie einen neuen Branch "Task1" und wechseln Sie in diesen
+- Machen Sie aus "Apfe" einen "Apfel", commiten Sie den neuen Branch zum remote
+- Wechseln Sie zurück in den main Branch und machen Sie aus dem "Apfe" "Bier".
+- Versuchen Sie nun den Task1 Branch in main zu mergen
 - Warum kommt es zu dem Konflikt und wie erkennen Sie, wo ein Konflikt vorliegt?
-- Lösen Sie den Merge-Konflikt und löschen Sie anschließen den develop Branch
+- Lösen Sie den Merge-Konflikt und löschen Sie anschließen den Task1 Branch lokal und remote
 - Erstellen Sie einen Branch "update" und wechseln Sie in diesen.
-- Fügen Sie drei Dinge zur Einkaufsliste und Stellen Sie sicher dass der Branch auch remote auf dem aktuellen Stand verfügbar ist.
-- Mergen Sie update in Main und pushen Sie zum Remote.
+- Fügen Sie drei Dinge zur Einkaufsliste und S´stellen Sie sicher, dass der Branch auch remote auf dem aktuellen Stand verfügbar ist.
+- Mergen Sie update in main und pushen Sie zum Remote.
