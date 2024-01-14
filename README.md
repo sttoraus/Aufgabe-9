@@ -31,11 +31,11 @@
 
 **Praktische Umsetzung:**
 - Erstellen Sie einen neuen Branch "Task1" und wechseln Sie in diesen
-- Machen Sie aus "Apfe" einen "Apfel", commiten Sie den neuen Branch zum remote
+- Machen Sie aus "Apfe" einen "Apfel", commiten Sie und pushen Sie den neuen Branch zum remote
 - Wechseln Sie zurück in den main Branch und machen Sie aus dem "Apfe" "Bier".
 - Versuchen Sie nun den Task1 Branch in main zu mergen
 - Warum kommt es zu dem Konflikt und wie erkennen Sie, wo ein Konflikt vorliegt?
 - Lösen Sie den Merge-Konflikt und löschen Sie anschließen den Task1 Branch lokal und remote
 - Erstellen Sie einen Branch "update" und wechseln Sie in diesen.
-- Fügen Sie drei Dinge zur Einkaufsliste und S´stellen Sie sicher, dass der Branch auch remote auf dem aktuellen Stand verfügbar ist.
+- Fügen Sie drei Dinge zur Einkaufsliste und stellen Sie sicher, dass der Branch auch remote auf dem aktuellen Stand verfügbar ist.
 - Mergen Sie update in main und pushen Sie zum Remote.
